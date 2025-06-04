@@ -10,7 +10,7 @@ public class Consultorio {
     private Map<String, Administrador> administradores = new HashMap<>();
 
     public Consultorio() {
-        administradores.put("admin", new Administrador("admin", "2177"));
+        administradores.put("Zato", new Administrador("Zato", "2177"));
     }
 
     public boolean autenticarAdministrador(String id, String clave) {
