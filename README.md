@@ -11,12 +11,10 @@ Instalación
 
 3. Asegúrate de tener configurado Java JDK 17 o superior.
 
-4. Ejecuta el proyecto o genera el `.jar` en la carpeta `/bin`.
-
 # Uso
 
 - Al ejecutar el programa, se muestra un menú interactivo en consola.
-- Puedes registrar doctores, pacientes, y agendar citas.
+- Puedes registrar doctores, pacientes, enlistar a lospacientes registrados y a los doctores registrados asi como agendar citas y enlistarlas tambien
 - La información se almacena en estructuras de datos y puede ampliarse para usarse con base de datos.
 - El `.jar` ejecutable está disponible en la carpeta `/bin`.
 
